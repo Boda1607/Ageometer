@@ -1,0 +1,21 @@
+{
+  "name": "Ageometer",
+  "short_name": "Ageometer",
+  "description": "Life Time Calculator with cool theme switcher and fun facts.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#6100fe",
+  "theme_color": "#6100fe",
+  "icons": [
+   {
+    "src": "1.png",
+    "sizes": "192x192",
+    "type": "image/png"
+   },
+   {
+    "src": "2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+   }
+ ]
+}
