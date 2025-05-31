@@ -33,6 +33,12 @@ Check out the live demo here:
 2. Tap **Share > Add to Home Screen**
 3. Launch it from the Home Screen like a regular app
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Boda1607/ageometer.git
+
 ## 📁 Project Structure
 
 ```bash
@@ -42,8 +48,4 @@ Check out the live demo here:
 ├── 1.png                    # iOS icon
 ├── service-worker.js        # Enables PWA offline support and caching
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Boda1607/ageometer.git
