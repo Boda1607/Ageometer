@@ -10,7 +10,8 @@ Ageometer is a simple web app that accurately calculates your exact age and lets
 
 ## Demo
 
-*[Add a link here if you have a live demo.](https://ageometer.netlify.app/)*
+Check out the live demo here:  
+[https://ageometer.netlify.app/](https://ageometer.netlify.app/)
 
 ## Installation
 
